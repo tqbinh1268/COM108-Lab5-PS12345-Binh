@@ -8,7 +8,7 @@
 
 ### Lần 1: Bài 1
 - Trạng thái: Chờ chấm
-- Ghi chú: 
+- Ghi chú: làm xong bài 1
 
 ### Lần 2: Bài 1
 - Trạng thái: 

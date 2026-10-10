@@ -29,7 +29,7 @@ float nhapSanLuongWh() {
   do{
     printf("Nhap so Wh: ");
     scanf("%f",&wh);
-  }while (wh <= 0);
+  }while (wh < 0);
 
   return wh;
 }
